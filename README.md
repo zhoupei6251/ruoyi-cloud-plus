@@ -4,17 +4,17 @@
 - - -
 ## 平台简介
 
-[![码云Gitee](https://gitee.com/dromara/RuoYi-Cloud-Plus/badge/star.svg?theme=blue)](https://gitee.com/dromara/RuoYi-Cloud-Plus)
-[![GitHub](https://img.shields.io/github/stars/dromara/RuoYi-Cloud-Plus?style=social&label=Github%20Stars)](https://github.com/dromara/RuoYi-Cloud-Plus)
-[![Star](https://gitcode.com/dromara/RuoYi-Cloud-Plus/star/badge.svg)](https://gitcode.com/dromara/RuoYi-Cloud-Plus)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://gitee.com/dromara/RuoYi-Cloud-Plus/blob/6.X/LICENSE)
+[![码云Gitee](https://gitee.com/dromara/ruoyi-cloud-plus/badge/star.svg?theme=blue)](https://gitee.com/dromara/ruoyi-cloud-plus)
+[![GitHub](https://img.shields.io/github/stars/dromara/ruoyi-cloud-plus?style=social&label=Github%20Stars)](https://github.com/dromara/ruoyi-cloud-plus)
+[![Star](https://gitcode.com/dromara/ruoyi-cloud-plus/star/badge.svg)](https://gitcode.com/dromara/ruoyi-cloud-plus)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://gitee.com/dromara/ruoyi-cloud-plus/blob/6.X/LICENSE)
 <br>
-[![RuoYi-Cloud-Plus](https://img.shields.io/badge/RuoYi_Cloud_Plus-6.0.0-success.svg)](https://gitee.com/dromara/RuoYi-Cloud-Plus)
+[![ruoyi-cloud-plus](https://img.shields.io/badge/RuoYi_Cloud_Plus-6.0.0-success.svg)](https://gitee.com/dromara/ruoyi-cloud-plus)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1-blue.svg)]()
 [![JDK-21](https://img.shields.io/badge/JDK-21-green.svg)]()
 [![JDK-25](https://img.shields.io/badge/JDK-25-green.svg)]()
 
-> Dromara RuoYi-Cloud-Plus `微服务通用权限管理系统` 重写 RuoYi-Cloud 全方位升级(不兼容原框架)
+> Dromara ruoyi-cloud-plus `微服务通用权限管理系统` 重写 RuoYi-Cloud 全方位升级(不兼容原框架)
 
 > 项目代码、文档 均开源免费可商用 遵循开源协议在项目中保留开源协议文件即可<br>
 活到老写到老 为兴趣而开源 为学习而开源 为让大家真正可以学到技术而开源

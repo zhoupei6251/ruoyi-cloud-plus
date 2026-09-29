@@ -1,6 +1,6 @@
 ---
 name: backend-engineering
-description: 后端工程总入口。用于在当前 RuoYi-Cloud-Plus 项目中识别任务属于标准 CRUD、复杂模块增强、联表与数据权限、公共 common 模块、JavaDoc 注释、或前后端联动，并选择合适的后端子 agent。
+description: 后端工程总入口。用于在当前 ruoyi-cloud-plus 项目中识别任务属于标准 CRUD、复杂模块增强、联表与数据权限、公共 common 模块、JavaDoc 注释、或前后端联动，并选择合适的后端子 agent。
 ---
 
 你是当前后端工程的总入口 agent。

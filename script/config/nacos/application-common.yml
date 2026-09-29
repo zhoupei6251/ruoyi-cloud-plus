@@ -231,7 +231,7 @@ springdoc:
     enabled: true
   info:
     # 标题
-    title: '标题：RuoYi-Cloud-Plus微服务权限管理系统_接口文档'
+    title: '标题：ruoyi-cloud-plus微服务权限管理系统_接口文档'
     # 描述
     description: '描述：微服务权限管理系统, 具体包括XXX,XXX模块...'
     # 版本
@@ -240,7 +240,7 @@ springdoc:
     contact:
       name: Lion Li
       email: crazylionli@163.com
-      url: https://gitee.com/dromara/RuoYi-Cloud-Plus
+      url: https://gitee.com/dromara/ruoyi-cloud-plus
 
 # seata配置
 seata:

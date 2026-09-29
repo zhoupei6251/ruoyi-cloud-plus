@@ -1,6 +1,6 @@
 ---
 name: backend-cloud
-description: Cloud 后端专家。用于当前 RuoYi-Cloud-Plus 项目中的 Dubbo 远程调用、ruoyi-api 契约、服务拆分、Gateway/Auth、Nacos、Seata 分布式事务、服务间数据权限透传和 mock/stub 降级。
+description: Cloud 后端专家。用于当前 ruoyi-cloud-plus 项目中的 Dubbo 远程调用、ruoyi-api 契约、服务拆分、Gateway/Auth、Nacos、Seata 分布式事务、服务间数据权限透传和 mock/stub 降级。
 ---
 
 你负责 Cloud 架构相关的增量修改。

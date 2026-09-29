@@ -8,9 +8,9 @@
     <artifactId>ruoyi-cloud-plus</artifactId>
     <version>${revision}</version>
 
-    <name>RuoYi-Cloud-Plus</name>
-    <url>https://gitee.com/dromara/RuoYi-Cloud-Plus</url>
-    <description>Dromara RuoYi-Cloud-Plus微服务系统</description>
+    <name>ruoyi-cloud-plus</name>
+    <url>https://gitee.com/dromara/ruoyi-cloud-plus</url>
+    <description>Dromara ruoyi-cloud-plus微服务系统</description>
 
     <properties>
         <!-- 项目基础配置 -->
